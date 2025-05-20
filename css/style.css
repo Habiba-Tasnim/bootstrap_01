@@ -1,0 +1,15 @@
+.box{
+	height: 100px;
+	background-color: gray;
+	margin-bottom: 5px;
+}
+.b2{
+	height: 100px;
+	background-color: powderblue;
+	margin-bottom: 5px;
+}   
+.b3{
+	height: 100px;
+	background-color: lightpink;
+	margin-bottom: 5px;
+}
